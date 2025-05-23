@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/34df6929-48f5-4836-a450-dd13bae89a40)
+
+
 # 👨🏻‍💻 Site Pessoal – Hermesson Yuri
 
 Este é o meu site pessoal, desenvolvido para apresentar minha carreira como Gestor de Tráfego, focado em Marketing Digital.
@@ -16,14 +19,12 @@ Utilizei a base do WordPress com personalizações em HTML, CSS e o construtor E
 - Integrar formulários de contato e links de redes sociais
 - Otimização para dispositivos móveis
 
-## 📸 Prints do site:
-https://github.com/hermessonyurii/Prints-do-Site-HermessonYuri
 
 ## 🔗 Link para o site:
 [https://hermessonyuri.com](https://hermessonyuri.com)
 
 ## 👨‍💻 Desenvolvido por:
 Hermesson Yuri 
-Desenvolvedor de sistemas e softwares | Python | JavaScript | React | WordPress | PHP 
+Desenvolvedor Full Stack
 📧 contato@hermessonyuri.com.br  
 🌐 [hermessonyuri.com](https://hermessonyuri.com)
